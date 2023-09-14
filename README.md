@@ -116,7 +116,6 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
   
 ```
 ## Challenges and Suggestion
-```
 
 Attract Longer Guest Stays: To encourage longer guest stays, consider offering competitive pricing for extended durations, such as weekly or monthly rates. Provide special packages or discounts for guests who book longer stays, making it economically attractive for them to stay longer.
 
