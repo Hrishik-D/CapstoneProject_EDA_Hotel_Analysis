@@ -79,3 +79,39 @@ All duplicate rows were dropped.
 ### (5) Creating new columns
 - Created new column `total_stay` by adding `stays_in_weekend_nights`+`stays_in_week_nights`.
 - Created new column `total_people` by adding `adults`+`children`+`babies`.
+
+
+## Exploratory Data Analysis
+
+Performed EDA and tried answering the following questions:
+
+```
+   1. What is the Percentage of bookings in each hotel?
+   2. What is the percentage of cancellation ?
+   3. How adr varies with total stays and finding the outlier ?
+   4. How  ADR varies with Arrival Month Which are the most busy months? 
+   5. Which agent makes the most no. of bookings?
+   6.From which country most of the guests are coming ?
+   7. Which room type is in most demand and which room type generates the  highest adr?
+   8. which is the most liked meal ?
+   9. Which hotel generated highest ADR ?
+   10. Which distribution channel makes highest booking ?
+   11. Number of cancellation for different hotel
+   12. Which distribution has highest cancel percentage ?
+   13. Does a  longer waiting period or longer lead time causes the cancellation of bookings?
+   14.Are the guest returning after stay ?
+   15. How does different parameter depend on each other which can help in business ?
+    
+
+Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
+   - Bar Plot.
+   - Histogram.
+   - Scatter Plot.
+   - Pie Chart.
+   - Line Plot.
+   - Heatmap.
+   - Box Plot.
+   - Pair Plot.
+   - KDE plot
+  
+```
