@@ -115,3 +115,34 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
    - KDE plot
   
 ```
+## Challenges and Suggestion
+```
+
+Attract Longer Guest Stays: To encourage longer guest stays, consider offering competitive pricing for extended durations, such as weekly or monthly rates. Provide special packages or discounts for guests who book longer stays, making it economically attractive for them to stay longer.
+
+Differentiate Services for Resort and City Hotels: Resort hotels should focus on enhancing recreational activities and services to attract more customers seeking leisure and relaxation. City hotels should continue providing high-quality services to maintain their competitiveness in urban markets.
+
+Optimize Resource Allocation: Utilize historical cancellation data to allocate resources like staff and inventory more efficiently, especially during periods of lower occupancy. Implement dynamic pricing strategies to adjust room rates based on occupancy and demand, which can help maximize revenue.
+
+Reduce Cancellations: Investigate reasons for reservation cancellations, and use this information to adjust pricing strategies, offer promotions, or revise policies to minimize cancellations. Develop customer retention strategies, such as loyalty programs, referral incentives, and special offers for returning customers.
+
+Utilize ADR for Revenue Estimation: Continuously monitor Average Daily Rate (ADR) trends throughout the year to estimate revenue potential for different seasons. Use ADR insights to create budgets and financial plans that align with expected revenue fluctuations.
+
+Partner with Travel Agents and Tour Operators: Collaborate with travel agents (TAs) and tour operators (TOs) to increase bookings, especially if they have an established customer base. Negotiate mutually beneficial partnerships with TAs and TOs, offering them competitive rates and special deals to attract more bookings.
+
+Identify Top-Performing Agents: Identify the most successful travel agents and build strong relationships with them. Co-market with these agents, create special promotions, and provide exclusive deals to increase bookings through their channels.
+
+Target High-Booking Countries: Identify countries with the highest number of bookings and focus marketing and expansion efforts in those regions. Allocate resources efficiently, such as offering customer support in commonly booked languages to enhance the guest experience.
+
+Include Breakfast Options: Offer a Bed and Breakfast (B&B) option, as it can attract more guests looking for a convenient and cost-effective way to start their day. Promote this option prominently on your booking platforms and website.
+
+Understand Booking Cancellation Patterns:
+
+While the waiting period may not significantly affect booking cancellations, continue monitoring and analyzing booking data to identify other factors influencing cancellations.
+Adapt cancellation policies and strategies accordingly to further reduce cancellations.
+
+## Challenges
+(1) Lot of null values were present in the dataset.
+(2) Data type of some Data was in wrong format.
+(3) Lot of duplicate data.
+(4) Which visualization techniques to use was a challenge?
