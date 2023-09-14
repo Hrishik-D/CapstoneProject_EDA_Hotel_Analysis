@@ -117,6 +117,7 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 ```
 ## Challenges and Suggestion
 
+```
 Attract Longer Guest Stays: To encourage longer guest stays, consider offering competitive pricing for extended durations, such as weekly or monthly rates. Provide special packages or discounts for guests who book longer stays, making it economically attractive for them to stay longer.
 
 Differentiate Services for Resort and City Hotels: Resort hotels should focus on enhancing recreational activities and services to attract more customers seeking leisure and relaxation. City hotels should continue providing high-quality services to maintain their competitiveness in urban markets.
@@ -140,8 +141,13 @@ Understand Booking Cancellation Patterns:
 While the waiting period may not significantly affect booking cancellations, continue monitoring and analyzing booking data to identify other factors influencing cancellations.
 Adapt cancellation policies and strategies accordingly to further reduce cancellations.
 
+```
+
 ## Challenges
+```
 (1) Lot of null values were present in the dataset.
 (2) Data type of some Data was in wrong format.
 (3) Lot of duplicate data.
 (4) Which visualization techniques to use was a challenge?
+
+```
