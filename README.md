@@ -1,4 +1,6 @@
 # Hotel Bookings Exploratory Data Analysis
+ ![banner_hotel](https://github.com/Hrishik-D/CapstoneProject_EDA_Hotel_Analysis/assets/139671511/083b71c1-a6f9-47d4-aff5-0571cc8d361e)
+
 
 The project contains the real world data record of hotel bookings of a city and a resort hotel containing details like bookings, cancellations, guest details etc. from 2015 to 2017. In this project we are going to analyze Hotel Booking Data in order to find out valuable insights and give suggestions to increase revenue of hotels.
 
